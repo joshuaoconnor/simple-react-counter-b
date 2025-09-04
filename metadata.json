@@ -1,0 +1,5 @@
+{
+  "name": "Simple React Counter",
+  "description": "A beginner-friendly counter application built with React, TypeScript, and Tailwind CSS. It allows users to increment, decrement, and reset a count.",
+  "requestFramePermissions": []
+}
